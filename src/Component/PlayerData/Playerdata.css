@@ -1,0 +1,12 @@
+.select-player{
+    background-color: green;
+    line-height: 30px;
+    color: white;
+}
+.player{
+    display: flex;
+   
+}
+.profile{
+    margin: 100px;
+}
